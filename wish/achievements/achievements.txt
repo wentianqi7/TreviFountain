@@ -1,0 +1,10 @@
+type:
+0 related with wish post
+1 related with wish take
+2 related with personal homepage
+
+type number name description
+0 1 "First Post" "Post one wish on the board"
+0 5 "Just a Hobby" "Post five wishes on the board"
+1 1 "First Blood!" "Take one wish"
+1 5 "Wishing Well" "Take five wishes"
